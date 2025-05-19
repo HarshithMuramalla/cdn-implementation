@@ -321,9 +321,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -335,6 +332,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Harshith Muramalla - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Harshith Muramalla - saiharshithvenkata3@gmail.com
 
 Project Link: [https://github.com/HarshithMuramalla/cdn-implementation](https://github.com/HarshithMuramalla/cdn-implementation)
